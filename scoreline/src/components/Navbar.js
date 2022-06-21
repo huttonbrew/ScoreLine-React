@@ -1,8 +1,12 @@
 import React from 'react'
+import { NavLink } from 'react-router-dom'
 
 function Navbar() {
   return (
-    <div>Navbar</div>
+    <div id = "navbar">
+        <div>salute</div>
+   
+        </div>
   )
 }
 
